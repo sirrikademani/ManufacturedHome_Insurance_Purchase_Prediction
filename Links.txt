@@ -1,0 +1,4 @@
+Draft script: Quote Conversion prediction model [Without Undersampling]: https://colab.research.google.com/drive/1L-tQx4-0Z0n6KzcsslSeQH0t6JxHkIo4?usp=sharing
+
+Main Script: Cover Tree Quote conversion Prediction Model [Undersampling version]
+https://colab.research.google.com/drive/1Am8LWSRFp2nuMxVqp049cVpusKmc6lhL#scrollTo=TOOyPaECjq4T
